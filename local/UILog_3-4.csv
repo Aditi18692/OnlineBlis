@@ -1,0 +1,6 @@
+DATETIME,IDENTIFIER,INFO,FILE,USER,LAB,VERSION,TAG1,TAG2,TAG3
+"2018-09-28 22:50:57",result_entry_patient_dyn,op=1&qr=aro,result_entry_patient_dyn,53,127,3.4,X,X,X
+"2018-09-28 22:51:38",search,X,search,53,127,3.4,X,X,X
+"2018-09-28 22:52:27",search_p_dyn,op=1&qr=aro,search_p_dyn,53,127,3.4,X,X,X
+"2018-09-28 22:52:37",patient_profile,X,patient_profile.php?pid=1836,53,127,3.4,X,X,X
+"2018-09-28 22:52:45",new_specimen,pid=1836&dnum=,new_specimen.php?pid=1836&dnum=,53,127,3.4,X,X,X
